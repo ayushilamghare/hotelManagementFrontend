@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { CardElement, useStripe, useElements } from '@stripe/react-stripe-js';
 import PaymentMethodSelector from "../components/PaymentMethodSelector";
-import StripePayment from "../components/StripePayment";
 import UPIPayment from "../components/UPIPayment";
 import NetBankingPayment from "../components/NetBankingPayment";
 import CashPayment from "../components/CashPayment";
