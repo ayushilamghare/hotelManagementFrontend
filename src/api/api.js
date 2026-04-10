@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:5009/api"
+const BASE_URL = "https://hotelmanagementbackend-qf5o.onrender.com/api"
 
 //register
 
